@@ -1,0 +1,10 @@
+.filterContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #212529;
+  color: #fff;
+  flex-basis: 25%;
+  flex-shrink: 0;
+  padding: 30px;
+  gap: 20px;
+}

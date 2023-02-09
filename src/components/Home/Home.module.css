@@ -1,0 +1,13 @@
+.productContainer {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  flex-grow: 1;
+  gap: 20px;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
